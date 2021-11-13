@@ -30,7 +30,19 @@ And please add information about:
 
 -----
 
-### for employee (求職方):
+### For Headhunting（獵才公司）：
+
+如果您有針對 Kotlin 工程師開放的職缺
+
+歡迎至 [issues tab](https://github.com/taiwan-kotlin-user-group/jobs/issues/) 創建新的求才 issue！ 
+
+另外請加上 **獵才** 的 label
+
+協助求職者更快找到您們列出的職缺！
+
+-----
+
+### For Employee (求職方):
 
 GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
